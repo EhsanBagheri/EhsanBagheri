@@ -2,12 +2,11 @@
 <p align='center'>
 </p>
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&height=100&lines=I+am+a+power+electronics+engineer;you+can+contact+me++on+my+LinkedIn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&height=100&lines=I+am+a+embedded+software+engineer;you+can+contact+me++on+my+LinkedIn)](https://git.io/typing-svg)
    <a href="https://www.linkedin.com/in/ehsan-bagheri-73042690/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   
-  ![Ehsan Bagheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhsanBagheri&count_private=true)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -75,7 +74,17 @@
 
 </details>
 
-
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/EhsanBagheri/github-readme-stats"><img alt="Ehsan Bagheri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EhsanBagheri&count_private=true" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EhsanBagheri&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ehsan Bagheri" height="192px"/>
+  <br/>
+  </p>
+</details>
 
 
 
