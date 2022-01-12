@@ -3,7 +3,7 @@
 </p>
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70404&center=true&vCenter=true&multiline=true&height=100&lines=I+am+a+power+electronics+engineer;you+can+contact+me++on+my+LinkedIn)](https://git.io/typing-svg)
-   <a href="https://www.linkedin.com/in/EhsanBagheri/" target="_blank">
+   <a href="https://www.linkedin.com/in/ehsan-bagheri-73042690/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 
@@ -74,18 +74,12 @@
 
 </details>
 
-## <br/>
 
-## Popular Public Projects
-## <a href="https://github.com/EhsanBagheri/open-source-IGBT-gate-driver">
- ##  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  ## <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmadBahra&repo=open-source-IGBT-gate-driver&theme=onedark" />
-## </a>  
 
 
 
 
 ----------------------------------------------------------------------
-Credit: [Ehsan Bagheri](https://www.linkedin.com/in/EhsanBagheri/)
+Credit: [Ehsan Bagheri](https://www.linkedin.com/in/ehsan-bagheri-73042690)
 
 Last Edited on: 12/08/2021
