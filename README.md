@@ -52,29 +52,30 @@
 	</a>	
 	
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-</details>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/EhsanBagheri/github-readme-stats"><img alt="Ehsan Bagheri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EhsanBagheri&count_private=true" height="192px"/></a>
+    <a href="https://github.com/ehsanbagheri/github-readme-stats"><img alt="Ehsan Bagheri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ehsanbagheri&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EhsanBagheri&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ehsan Bagheri" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanbagheri&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ehsan Bagheri" height="192px"/>
   <br/>
   </p>
 </details>
 
+
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/EhsanBagheri"><img alt="Ehsan Bagheri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EhsanBagheri&custom_title=Ehsan Bagheri's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ehsanbagheri"><img alt="Ehsan Bagheri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ehsanbagheri&custom_title=EmadBahra's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
 </details>
 
 
 ----------------------------------------------------------------------
 Credit: [Ehsan Bagheri](https://www.linkedin.com/in/ehsan-bagheri-73042690)
 
-Last Edited on: 12/08/2021
+Last Edited on: 01/13/2022
